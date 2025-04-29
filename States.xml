@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<states>
+    <state>
+        <name id="WY">Wyoming</name>
+        <area unit="square_miles">98999</area>
+        <population>580000</population>
+        <capital>Cheyenne</capital>
+    </state>
+    <state>
+        <name id="FL">Florida</name>
+        <area unit="square_miles">66000</area>
+        <population>21000000</population>
+        <capital>Tallahassee</capital>
+    </state>
+    <state>
+        <name id="NM">New Mexico</name>
+        <area unit="square_miles">122000</area>
+        <population>2100000</population>
+        <capital>Santa Fe</capital>
+    </state>
+</states>

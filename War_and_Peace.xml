@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>BOOK ONE: 1805</head>
+
+            <head>CHAPTER I</head>
+            <!-- comments -->
+            <p><said>"Well, <persName><roleName>Prince</roleName></persName>, so Genoa and Lucca are
+                  now just family estates of the Buonapartes. But I warn you, if you don't tell me
+                  that this means war, if you still try to defend the infamies and horrors
+                  perpetrated by that Antichrist—I really believe he is Antichrist—I will have
+                  nothing more to do with you and you are no longer my friend, no longer my
+                  'faithful slave,' as you call yourself! But how do you do? I see I have frightened
+                  you—sit down and tell me all the news."</said></p>
+            <p>It was in <date when="1805-07">July, 1805</date>, and the speaker was the well-known
+                  <name>Anna Pávlovna Schérer</name>, maid of honor and favorite of the
+                     <persName><roleName>Empress</roleName>
+                  <forename>Márya</forename>
+                  <surname>Fëdorovna</surname></persName>. With these words she greeted
+                     <persName><roleName>Prince</roleName>
+                  <forename>Vasíli</forename>
+                  <surname>Kurágin</surname></persName>, a man of high rank and importance, who was
+               the first to arrive at her reception. <name>Anna Pávlovna</name> had had a cough for
+               some days. She was, as she said, suffering from la grippe; grippe being then a new
+               word in <placeName>St. Petersburg</placeName>, used only by the elite.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
