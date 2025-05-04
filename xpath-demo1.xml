@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+    <div type="part" n="1">
+        <head>Part One</head>
+        <div type="chapter" n="1">
+            <head>Chapter One</head>
+            <p>The content of paragraph 1</p>
+            <p>The content of paragraph 2</p>
+        </div>
+    </div>
+</body>
+
+
